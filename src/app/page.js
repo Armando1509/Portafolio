@@ -20,7 +20,7 @@ export default function Home() {
 
           <div className="pr-10 flex flex-row gap-6 justify-center">
             <a
-              href="www.linkedin.com/in/jose-armando-gomez-sanchez-2b1a1424a"
+              href="https://www.linkedin.com/in/jose-armando-gomez-sanchez-2b1a1424a/"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-amber-400 text-white text-2xl px-10 py-3 mt-10 rounded-full hover:bg-amber-500 text-center"
@@ -28,7 +28,7 @@ export default function Home() {
               LinkedIn
             </a>
             <a
-              href="https://github.com/tu-usuario"
+              href="https://github.com/Armando1509"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-amber-400 text-white text-2xl px-10 py-3 mt-10 rounded-full hover:bg-amber-500 text-center"
