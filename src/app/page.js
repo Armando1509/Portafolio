@@ -37,6 +37,11 @@ export default function Home() {
             </a>
           </div>
         </div>
+       <img
+          src="/public/images/js.png"
+          alt="Armando Gómez"
+        
+        />
       </div>
     </>
   );
