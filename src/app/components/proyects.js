@@ -42,8 +42,8 @@ const Proyects = ({idioma}) => {
   return (
     <div className="proyects">
       <h2 className="text-4xl pl-10 mt-20 ">{textos[idioma].titulo}</h2>
-      <h2 className="text-4xl pl-10 mt-10">{textos[idioma].descripcion}</h2>
-
+{/*       <h2 className="text-4xl pl-10 mt-10">{textos[idioma].descripcion}</h2>
+ */}
       <div className="flex flex-row justify-center gap-20 mt-12">
         {/* Columna 1 */}
         <div className="bg-gray-900 shadow-lg shadow-teal-400 border-amber-100 rounded-xl p-8 w-100 flex flex-col items-center">
