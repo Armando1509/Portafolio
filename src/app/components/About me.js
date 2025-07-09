@@ -51,6 +51,14 @@ const AboutMe = ({ idioma, setIdioma }) => {
             >
               Github
             </a>
+            <a
+              href="/docs/CV Armando Gomez.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-amber-400 text-white text-2xl px-10 py-3 mt-10 rounded-full hover:bg-amber-500 text-center"
+            >
+              Mi CV
+            </a>
           </div>
         </div>
         <div className="flex flex-row gap-6 justify-center items-center mt-10  ">

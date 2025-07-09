@@ -105,7 +105,7 @@ const Contact = ({idioma}) => {
           className="h-20 w-20 mb-4"
           />
           <h1 className="text-2xl pt-2 " >Telefono de contacto </h1>
-          <h2>+52-55-2899-4342 </h2>
+          <h2>+52-55-7762-6536 </h2>
           <img
           src="/images/email3.png"
           className="h-22 w-22 bm-4"
