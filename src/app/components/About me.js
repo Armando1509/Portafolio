@@ -28,7 +28,7 @@ const AboutMe = ({ idioma, setIdioma }) => {
 
   return (
     <>
-      {/* Informacion principal */}
+      
       <div className="justify-center items-center text-center mt-35">
         <div className="justify-center items-center mt-10 shadow-sm">
           <h1 className="text-8xl text-amber-400">{textos[idioma].titulo}</h1>
